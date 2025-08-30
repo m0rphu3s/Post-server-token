@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;"> 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐀𝐋𝟑𝐗 𝐈𝐍𝐒𝐈𝐈𝐃𝐄</h1>
-        <h1 style="color: blue;">𝐀𝐋𝟑𝐗 𝐏𝐎𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 (𝐏𝐎𝐒𝐓-𝐀𝐋𝟑𝐗)</h1>
+        <h1 style="color: red;"> 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 MUDSSIR 𝐈𝐍𝐒𝐈𝐈𝐃𝐄</h1>
+        <h1 style="color: blue;">𝐀𝐋𝟑𝐗 𝐏𝐎𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 (𝐏𝐎𝐒𝐓-MUDDASIR)</h1>
     </header>
 
     <div class="container">
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐀𝐋𝟑𝐗</p>
+        <p>𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 MUDDASSIR</p>
     </footer>
 
     <script>
